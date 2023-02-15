@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: O našem klubu
 permalink: /about
 comments: true
 ---
@@ -8,16 +8,13 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>**TJ Sokol Velké Přílepy** byl založen roku 1920 a spadá do Okresního fotbalového svazu Praha-západ. Hřiště se nachází v ulici Májová 737. Historie klubu nese dlouholetou tradici a mnoho fotbalových úspěchů.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+![naši fotbalisti](img/312631839_2116192998588123_4433210845004245512_n - kopie.jpg)
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+> „Aktuálně se nacházíme v tabulce mezi prvními v soutěži III. třída - skupina B s 26 body po 10 zápasech.“
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Jelikož se chceme starat i o naše mladší fotbalisty, máme tu i pro ně **JFK Velké Přílepy**, kde jsou fotbalisté ve věku 5-13 let. Tento fotbalový oddíl vznikl jako občanské sdružení rodičů v roce 2010. Rodiče dětí je podporují z příspěvků za docházku do fotbalového oddílu a také je podporují sponzoři. Dětem při trénincích někdy pomáhají i někteří z hráčů za TJ Sokol Velké Přílepy, ti mohou předat dětem cenné zkušenosti.</p>
 
 </div>
 
