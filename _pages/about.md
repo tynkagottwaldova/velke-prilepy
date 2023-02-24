@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>**TJ Sokol Velké Přílepy** byl založen roku 1920 a spadá do Okresního fotbalového svazu Praha-západ. Hřiště se nachází v ulici Májová 737. Historie klubu nese dlouholetou tradici a mnoho fotbalových úspěchů.</p>
+  <p><b>TJ Sokol Velké Přílepy</b> byl založen roku 1920 a spadá do Okresního fotbalového svazu Praha-západ. Hřiště se nachází v ulici Májová 737. Historie klubu nese dlouholetou tradici a mnoho fotbalových úspěchů.</p>
 
 ![naši fotbalisti](img/312631839_2116192998588123_4433210845004245512_n - kopie.jpg)
 
