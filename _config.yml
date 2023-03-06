@@ -32,10 +32,10 @@ plugins:
 # Archives
 jekyll-archives:
   enabled:
-    - categories
+    - kategorie
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: '/kategorie/:name/'
     
 # Pagination 
 paginate: 6
