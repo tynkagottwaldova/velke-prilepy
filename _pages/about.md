@@ -24,7 +24,7 @@ comments: true
 <p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo ZDARMA.</p>
   
 
-<a target="_blank" href="[https://tynkagottwaldova.github.io/velke-prilepy/pivo]" class="btn btn-danger">JEDNO PIVO NA NÁS</a>
+<a target="_blank" href="https://tynkagottwaldova.github.io/velke-prilepy/pivo" class="btn btn-danger">JEDNO PIVO NA NÁS</a>
 
 </div>
 </div>
