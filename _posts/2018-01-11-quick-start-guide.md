@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "Tomáš Bláha"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
