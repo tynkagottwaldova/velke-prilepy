@@ -23,9 +23,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Jedno pivo na nás</h5>
 
-<p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo ZDARMA <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo ZDARMA.</p>
+  
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="[https://tynkagottwaldova.github.io/velke-prilepy/pivo]" class="btn btn-danger">JEDNO PIVO NA NÁS</a>
 
 </div>
 </div>
