@@ -16,7 +16,6 @@ comments: true
 <p>Jelikož se chceme starat i o naše mladší fotbalisty, máme tu i pro ně <b>JFK Velké Přílepy</b>, kde jsou fotbalisté ve věku 5-13 let. Tento fotbalový oddíl vznikl jako občanské sdružení rodičů v roce 2010. Rodiče dětí je podporují z příspěvků za docházku do fotbalového oddílu a také je podporují sponzoři. Dětem při trénincích někdy pomáhají i někteří z hráčů za TJ Sokol Velké Přílepy, ti mohou předat dětem cenné zkušenosti.</p>
 
 </div>
-</div>
 
 <div class="col-md-4">
 
