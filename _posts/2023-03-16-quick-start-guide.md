@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tomáš Bláha"
-author: sal
+author: Týna
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
