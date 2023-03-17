@@ -28,5 +28,4 @@ comments: true
 <a href="https://tynkagottwaldova.github.io/velke-prilepy/pivo" class="btn btn-danger">JEDNO PIVO NA NÁS</a>
 
 </div>
-</div>
-</div>
+
