@@ -8,20 +8,11 @@ featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+1. Hláška z filmu román pro muže „Tyvole Šimone, vím, že liga je liga, ale méně hlavičkuj.“
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+2. Vyplňuji čas, jak se dá. V zimě různé kulturní akce, lyže a v létě primárně výlety, dovolená, voda. Hodně jezdím na kole a rád navštěvuji saunu – zkrátka aktivní život.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+3. Vzhledem k mému věku se snažím udržovat jak to jen jde. Žádné limity sinikdy nedávám, ale minimálně 2x týdně se snažím sportovat ať už formou běhu, či tréninku nebo doplňkovým sportem třeba badminton.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+4. Oblíbená rozcvička je formou týmových her, např. hlavičkovaná, házená, rugby. Co hry se týče, mám rád, když hrajeme na malém prostoru v maximální intenzitě. Poté také hra starý vs. mladý (to má vždy spád a náboj). V neposlední řadě břevínka (trefení horní tyče) – nechceš skončit poslední.
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
