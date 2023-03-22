@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TJ Sokol Velké Přílepy vs. FK Středdokluky
+title:  TJ Sokol Velké Přílepy vs. FK Středokluky
 author: Týna
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
