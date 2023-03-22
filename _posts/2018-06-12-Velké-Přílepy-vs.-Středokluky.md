@@ -3,16 +3,15 @@ layout: post
 title:  TJ Sokol Velké Přílepy vs. FK Středokluky
 author: Týna
 categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+image: assets/images/3.jpeg
 ---
+Zápas byl náročný a to nejen fyzicky, ale i počasím. Ačkoli byla některým divákům zima, tak i přesto zůstali a fandili do konce.
 
 
 ## Skóre zápasu: 2:1
-Středokluky daly svůj gól pouze na panelty.
+První gól zápasu dal protihráč Petr Hotovec při 61 minutě. Po několika minutách bylo ale vyrovnáno na 1-1 po gólu Jakuba Juklíčka v 74 minutě.
+O celkovém skóre zápasu pak rozhodl penaltový rozstřel, kdy se Velkým Přílepům povedl dát gól.
 
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
-#
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+![gól od spoluhráče]({{ site.baseurl }}/assets/images/8.JPG)
