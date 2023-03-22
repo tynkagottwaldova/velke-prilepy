@@ -2,7 +2,7 @@
 layout: post
 title:  "Jakub Jelínek"
 author: Týna
-categories: [ Jekyll, tutorial ]
+categories: [ football, Velké Přílepy ]
 image: assets/images/11.jpg
 description: Jakub Jelínek
 featured: true
