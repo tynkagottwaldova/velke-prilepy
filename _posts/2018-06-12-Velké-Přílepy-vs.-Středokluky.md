@@ -2,7 +2,7 @@
 layout: post
 title:  TJ Sokol Velké Přílepy vs. FK Středokluky
 author: Týna
-categories: [ Jekyll, tutorial ]
+categories: [ football, Velké Přílepy ]
 image: assets/images/3.jpeg
 ---
 Zápas byl náročný a to nejen fyzicky, ale i počasím. Ačkoli byla některým divákům zima, tak i přesto zůstali a fandili do konce.
