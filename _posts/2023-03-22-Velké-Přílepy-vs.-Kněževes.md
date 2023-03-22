@@ -12,3 +12,4 @@ Hned první gól ve 2 minutě odstartoval Petr Trapp, poté skoŕoval 2x za sebo
 
 V druhém poločase už Kněževes neměla šanci proti Velkým Přílepům, které je rozválcovaly neuvěřitelnými 4 góly. V 69 minutě ho dal Petr Trapp, dále v 84 minutě se gól povedl dát Petrovi Bláhovi, hned za tím následoval v 88 minutě gól od Jakuba Juklíčka a na závěr v 90 minutě se podařil krásný završující gól od Luďka Kyprýho.
 
+![poděkování divákům]({{ site.baseurl }}/assets/images/20.jpg)
