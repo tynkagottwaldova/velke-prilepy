@@ -4,8 +4,7 @@ title: "TJ Sokol Velké Přílepy"
 description: "Fotbalový klub, který hraje fotbalové soutěže jak v kategorii mužů, tak žáků."
 logo: 'assets/images/logo TJ Sokol Velké Přílepy.jpg'
 favicon: 'assets/images/logo TJ Sokol Velké Přílepy.jpg'
-baseurl: /velke-prilepy
-google_analytics: ''
+baseurl: /tj-sokol-velke-prilepy
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -13,13 +12,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  týna:
+  Týna:
     name: Kristýna
     display_name: Týna
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: tynkagottwaldova@gmail.com
-    web: https://www.wowthemes.net
-    description: "Auktorka webu, TJ Sokol Velké Přílepy, která se zabývá hráči v mužském družstvu"
+    web: https://tynkagottwaldova.github.io/velke-prilepy/
+    description: "Auktorka webu, TJ Sokol Velké Přílepy, která se zabývá hráči v mužském družstvu."
 
 # Plugins
 plugins:
