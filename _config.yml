@@ -2,8 +2,8 @@
 name: "TJ Sokol Velké Přílepy"
 title: "TJ Sokol Velké Přílepy"
 description: "Fotbalový klub, který hraje fotbalové soutěže jak v kategorii mužů, tak žáků."
-logo: 'assets/images/logo TJ Sokol Velké Přílepy.jpg'
-favicon: 'assets/images/logo TJ Sokol Velké Přílepy.jpg'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: /velke-prilepy
 google_analytics: ''
 disqus: 'demowebsite'
