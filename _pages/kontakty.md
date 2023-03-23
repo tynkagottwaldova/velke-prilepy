@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakty
-permalink: /kontakty
+permalink: /about
 comments: false
 ---
 
