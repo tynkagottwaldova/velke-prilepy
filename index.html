@@ -39,6 +39,24 @@ title: Domovská stránka
 
 {% endif %}
 
+<!-- Posts Index 1
+================================================== -->
+<section class="recent-posts">
+    <div class="section-title">
+        <h2><span>Příběhy hráčů</span></h2>
+    </div>
+    <div class="row listrecent">
+        
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
+
+    </div>
+
+</section>
+
 <!-- Posts Index
 ================================================== -->
 <section class="recent-posts">
