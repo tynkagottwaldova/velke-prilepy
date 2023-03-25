@@ -8,10 +8,6 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<h3>Adresa hřiště</h3>
- <p>Májová 737</p>
- <p>252 64 Velké Přílepy</p>
- <p>Česká republika</p>
   
 <h3>Adresa hřiště</h3>
  <p>Májová 737</p>
