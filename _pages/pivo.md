@@ -5,7 +5,8 @@ permalink: /pivo
 comments: false
 ---
 
-Když řeknete u výdejního okénka kód: <u>sezóna je tu</u>. Dostanete na pivo slevu 10 %.
+Po prokázání slevového kódu u výdejního okénka: <u>sezóna je tu</u>. Dostanete kartičku za sbírání razítek DOMÁCÍCH zápasů, kterých je šest. Za jeden zápas dostanete jedno razítko. Za pět nasbíraných razítek budete mít pivo ZDARMA.
+	*razítko dostanete prokázáním kódu
 
 POZOR! Na každý zápas bude jiný kód, což pro Vás znamená, že na web budete muset chodit pravidelně a tím se dozvíte i jiné zajímavosti než jen slevu na pivo.
 
