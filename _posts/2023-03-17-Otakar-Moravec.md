@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Jakub Jelínek"
+title:  "Otakar Moravec"
 author: Týna
 categories: [ football, Velké Přílepy ]
 image: assets/images/11.jpg
-description: Jakub Jelínek
+description: Otakar Moravec
 featured: true
 hidden: true
 ---
