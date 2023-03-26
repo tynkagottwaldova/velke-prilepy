@@ -9,7 +9,7 @@ Zápas byl náročný a to nejen fyzicky, ale i počasím. Ačkoli byla někter�
 
 
 ## Skóre zápasu: 2:1
-První gól zápasu dal protihráč Petr Hotovec při 61 minutě. Po několika minutách bylo ale vyrovnáno na 1-1 po gólu Jakuba Juklíčka v 74 minutě.
+První gól zápasu dal protihráč Petr Hotovec při 61. minutě. Po několika minutách bylo ale vyrovnáno na 1-1 po gólu Jakuba Juklíčka v 74. minutě.
 O celkovém skóre zápasu pak rozhodl penaltový rozstřel, kdy se Velkým Přílepům povedl dát gól.
 
 
