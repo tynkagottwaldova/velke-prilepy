@@ -27,9 +27,9 @@ comments: false
 <div class="sticky-top sticky-top-80">
 <h5>Jedno pivo na nás</h5>
 
-<p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo se SLEVOU.</p>
+<p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo zdarma.</p>
   
 
-<a href="https://tynkagottwaldova.github.io/velke-prilepy/pivo" class="btn btn-danger">SLEVA NA PIVO</a>
+<a href="https://tynkagottwaldova.github.io/velke-prilepy/pivo" class="btn btn-danger">PIVO ZDARMA</a>
 
 </div>
