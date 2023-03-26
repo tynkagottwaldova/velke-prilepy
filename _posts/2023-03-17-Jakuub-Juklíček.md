@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Petr Jeřáb"
+title:  "Jakub Juklíček"
 author: Týna
 categories: [ football, Velké Přílepy ]
 image: assets/images/13.jpg
