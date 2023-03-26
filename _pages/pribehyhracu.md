@@ -14,6 +14,19 @@ comments: false
   <h3>Petr a Tomáš Bláha</h3>
 <p><i>Sourozenci, co spolu fotbal už hrají od mala. Jejich rodiče je k fotbalu učili, už jen kvůli tomu, že jejich maminka chodila na sportovní pedagogickou školu = FTVS. Tomáš a Petr jsou od sebe vzdáleni o rok, tudíž jsou sami pro sebe rivalové a jeden se snaží překonat toho druhého. Je tomu tak už od mala, kdy spolu začali chodit do školy. Oba se chtěli vydávat stejným směrem a to směrem ke sportu. Jaksi jim to ale později nevyšlo, protože oba dva se na vysoké rozdělili, i když mířili na stejnou, FTVS jako jejich maminka, oba ji ale nedali, jeden z nich zůstal o rok déle, druhý odešel a nakonec odešel i ten první. Vydali se tedy oba jinak, zůstali jim tak společné tréninky a zápasy ve Velkých Přílepech. Dnes mají k sobě krásné silné pouto, jako málo který sourozenci.</i></p>
 
- ![petr a tomáš]({{ site.baseurl }}/assets/images/18.jpg)
+ ![tomáš a petr]({{ site.baseurl }}/assets/images/18.jpg)
+
+</div>
+  
+  
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h5>Jedno pivo na nás</h5>
+
+<p>Děkujeme, že sledujete náš web, za odměnu při rozkliknutí odkazu zjistíte kód na pivo zdarma.</p>
+  
+
+<a href="https://tynkagottwaldova.github.io/velke-prilepy/pivo" class="btn btn-danger">PIVO ZDARMA</a>
 
 </div>
