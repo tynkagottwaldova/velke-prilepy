@@ -5,10 +5,9 @@ permalink: /pivo
 comments: false
 ---
 
-Po prokázání slevového kódu u výdejního okénka: <u>sezóna je tu</u>. Při návštěvě DOMÁCÍHO zápasu, kterých je šest, dostanete kartičku, kam budete sbírat razítka. Za jeden zápas dostanete jedno razítko. Za pět nasbíraných razítek budete mít pivo ZDARMA.
-	
-	*razítko dostanete prokázáním kódu
+Při první nebo druhé návštěvě zápasu obdržíte návštěvní kartičku na 6 utkání. Podmínku je získat alespoň 5 razítek, abyste dostali pivo ZDARMA.
+Razítko dostanete po prokázání slevového kódu u výdejního okénka: <u>sezóna je tu</u>.
 
-POZOR! Na každý zápas bude jiný kód, což pro Vás znamená, že na web budete muset chodit pravidelně a tím se dozvíte i jiné zajímavosti než jen slevu na pivo.
+POZOR! Na každý zápas bude jiný kód, což pro Vás znamená, že na web budete muset chodit pravidelně a tím se dozvíte i jiné zajímavosti než jen kód na pivo zdarma.
 
 ![pivo]({{ site.baseurl }}/assets/images/pivo.jpeg)
