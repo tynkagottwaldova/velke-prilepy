@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pozvánka na pivo
+title: PIVO ZDARMA
 permalink: /pivo
 comments: false
 ---
