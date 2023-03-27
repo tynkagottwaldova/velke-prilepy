@@ -13,15 +13,6 @@ Hráli s vysokým nasazením a každý gól si podctivě vybojovali.
 
 Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v zápětí skóroval Petr Trapp ve 36. minutě. Do druhého poločasu se šlo sice ztěží, kvůli deštivému počasí, ale i tak se povedlo dát gól v 63. minutě Jakubovi Juklíčkovi a krásný završující gól v 89. minutě dal opět Petr Trapp.
 
-<tr>
-  <td>
-    <b>TJ Sokol Velké Přílepy</b>
-  </td>
-  <td class="detail_value">
-    <a href="http://youtu.be/CkLBLpvxFDE" target="_blank">http://youtu.be/CkLBLpvxFDE</a>
-    <div style="position: relative; margin: 10px 0; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;"><iframe src="https://www.youtube.com/embed/CkLBLpvxFDE" frameborder="0" allowfullscreen="" style="position: absolute; top: 0;left: 0; width: 100%; height: 100%;"></iframe></div>
-  </td>
-</tr>
 
 <h3><caption>Sestavy</caption></h3>
 <table border="2" cellpadding="5" cellspacing="4">
