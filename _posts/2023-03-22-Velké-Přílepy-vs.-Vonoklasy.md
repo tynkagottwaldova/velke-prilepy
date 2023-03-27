@@ -3,7 +3,7 @@ layout: post
 title:  TJ Sokol Velké Přílepy vs. TJ Sokol Vonoklasy
 author: Týna
 categories: [ football, Velké Přílepy ]
-image: assets/images/23.jpg
+image: assets/images/23.JPG
 ---
 
 Dnes jsme se dočkali prvního zápasu v této sezóně. Zápas byl plný emocí a kluci byli plně připraveni. Oproti předchozím jarním dnům v týdnu se počasí moc nevydařilo, jelikož bylo deštivo a zima, ale ani to klukům nezabránilo, aby do toho dali všechno.
@@ -28,6 +28,6 @@ Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v záp
 <tr><td>Bláha Tomáš (10)</td><td>4ervený Jan (14)</td></tr>
 <tr><td>Trapp Petr (11)</td><td>Rašek Jan (16)</td></tr>
 </table>
-
+<br>
 
 ![golman]({{ site.baseurl }}/assets/images/24.JPG)
