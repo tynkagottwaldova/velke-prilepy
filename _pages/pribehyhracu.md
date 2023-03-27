@@ -14,7 +14,9 @@ comments: false
   <h3>Petr a Tomáš Bláha</h3>
 <p><i>Sourozenci, co spolu fotbal už hrají od mala. Jejich rodiče je k fotbalu učili, už jen kvůli tomu, že jejich maminka chodila na sportovní pedagogickou školu = FTVS. Tomáš a Petr jsou od sebe vzdáleni o rok, tudíž jsou sami pro sebe rivalové a jeden se snaží překonat toho druhého. Je tomu tak už od mala, kdy spolu začali chodit do školy. Oba se chtěli vydávat stejným směrem a to směrem ke sportu. Jaksi jim to ale později nevyšlo, protože oba dva se na vysoké rozdělili, i když mířili na stejnou, FTVS jako jejich maminka, oba ji ale nedali, jeden z nich zůstal o rok déle, druhý odešel a nakonec odešel i ten první. Vydali se tedy oba jinak, zůstali jim tak společné tréninky a zápasy ve Velkých Přílepech. Dnes mají k sobě krásné silné pouto, jako málo který sourozenci.</i></p>
 
-
+  ![tomáš a petr]({{ site.baseurl }}/assets/images/18.jpg)
+  <br>
+  
 </div>
   
   
