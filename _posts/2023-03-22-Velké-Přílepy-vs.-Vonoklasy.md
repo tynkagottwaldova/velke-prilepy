@@ -25,7 +25,7 @@ Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v záp
 <tr><td>Juklíček Jakub (7)</td><td>Sodomka David (10)</td></tr>
 <tr><td>Elias Lopez Fernandez (13)</td><td>Nejepsa Jaroslav (11)</td></tr>
 <tr><td>Halfar Tomáš (9)</td><td>Baubín Marek (12)</td></tr>
-<tr><td>Bláha Tomáš (10)</td><td>4ervený Jan (14)</td></tr>
+<tr><td>Bláha Tomáš (10)</td><td>Červený Jan (14)</td></tr>
 <tr><td>Trapp Petr (11)</td><td>Rašek Jan (16)</td></tr>
 </table>
 <br>
