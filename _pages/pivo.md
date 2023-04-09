@@ -6,7 +6,7 @@ comments: false
 ---
 
 Při první nebo druhé návštěvě zápasu obdržíte návštěvní kartičku na 6 utkání. Podmínku je získat alespoň 4 razítka, abyste dostali pivo ZDARMA.
-Razítko dostanete po prokázání slevového kódu u výdejního okénka: <u>sezóna je tu</u>.
+Razítko dostanete po prokázání slevového kódu u výdejního okénka: <u>velikonoční zápas</u>.
 
 ![návštěvní kartička]({{ site.baseurl }}/assets/images/kartička.png)
 
