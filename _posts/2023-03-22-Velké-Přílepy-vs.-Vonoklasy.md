@@ -11,7 +11,7 @@ Hráli s vysokým nasazením a každý gól si podctivě vybojovali.
 
 ## Skóre zápasu: 4:0
 
-Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v zápětí skóroval Petr Trapp ve 36. minutě. Do druhého poločasu se šlo sice ztěží, kvůli deštivému počasí, ale i tak se povedlo dát gól v 63. minutě Jakubovi Juklíčkovi a krásný završující gól v 89. minutě dal opět Petr Trapp.
+Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v zápětí skóroval Petr Trapp ve 36. minutě. Do druhého poločasu se sice šlo ztěží, kvůli deštivému počasí, ale i tak se povedlo dát gól v 63. minutě Jakubovi Juklíčkovi a krásný završující gól v 89. minutě dal opět Petr Trapp.
 
 
 <h3><caption>Sestavy</caption></h3>
