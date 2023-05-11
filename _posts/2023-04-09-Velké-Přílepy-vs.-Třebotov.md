@@ -24,7 +24,7 @@ V dnešním zápase skóroval Peter Palinčák v 52. minutě. Byl to velmi náro
 <tr><td>Kyprý Luděk (6)</td><td>Štrouf Martin (12)</td></tr>
 <tr><td>Juklíček Jakub (7)</td><td>Podzemský Lukáš (16)</td></tr>
 <tr><td>Mathew Aaron (8)</td><td>Veselý Marek (18)</td></tr>
-<tr><td>Fernandez Lopez Elias Aitor (9)</td><td>Kotek David (22)</td></tr>
+<tr><td>Lopez Fernandez Aitor Elias (9)</td><td>Kotek David (22)</td></tr>
 <tr><td>Bláha Tomáš (10)</td><td>Král Jan (23)</td></tr>
 <tr><td>Wachtl Martin (11)</td><td>Brabec Zdeněk (4)</td></tr>
 </table>
