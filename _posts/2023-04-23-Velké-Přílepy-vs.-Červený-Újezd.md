@@ -20,7 +20,7 @@ Při dnešním zápasu se povedlo skórovat Tomášovi Bláhovi, který dal prvn
 <tr><td>Bláha Petr (2)</td><td>Fišer Adam (4)</td></tr>
 <tr><td>Doubek Roman (3)</td><td>Mottl Matěj (5)</td></tr>
 <tr><td>Palinčák Peter (27)</td><td>Maršálek Pavel (6)</td></tr>
-<tr><td>Fernandez Lopez Elias Aitor (8)</td><td>Podzemský Lukáš (7)</td></tr>
+<tr><td>Lopez Fernandez Aitor Elias (8)</td><td>Podzemský Lukáš (7)</td></tr>
 <tr><td>Kyprý Luděk (11)</td><td>Kučera Pavel (8)</td></tr>
 <tr><td>Juklíček Jakub (7)</td><td>Král David (9)</td></tr>
 <tr><td>Moravec Otakar (88)</td><td>Formáček Tomáš (10)</td></tr>
