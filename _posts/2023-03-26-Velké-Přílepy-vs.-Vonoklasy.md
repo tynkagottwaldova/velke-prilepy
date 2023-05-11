@@ -6,7 +6,7 @@ categories: [ football, Velké Přílepy ]
 image: assets/images/23.JPG
 ---
 
-Dnes jsme se dočkali prvního zápasu v této sezóně. Zápas byl plný emocí a kluci byli plně připraveni. Oproti předchozím jarním dnům v týdnu se počasí moc nevydařilo, jelikož bylo deštivo a zima, ale ani to klukům nezabránilo, aby do toho dali všechno.
+Dnes jsme se dočkali prvního zápasu v této sezóně. Zápas byl plný emocí a hráči byli plně připraveni. Oproti předchozím jarním dnům v týdnu se počasí moc nevydařilo, jelikož bylo ošklivo a zima, ale ani to klukům nezabránilo, aby do toho dali všechno.
 Hráli s vysokým nasazením a každý gól si podctivě vybojovali.
 
 ## Skóre zápasu: 4:0
@@ -24,7 +24,7 @@ Prvním sezónním gólem odstartoval Tomáš Bláha ve 32. minutě. Hned v záp
 <tr><td>Skočdopole Martin (5)</td><td>Cherevko Vasyl (8)</td></tr>
 <tr><td>Wachtl Martin (6)</td><td>Burian Radek (9)</td></tr>
 <tr><td>Juklíček Jakub (7)</td><td>Sodomka David (10)</td></tr>
-<tr><td>Elias Lopez Fernandez (13)</td><td>Nejepsa Jaroslav (11)</td></tr>
+<tr><td>Lopez Fernandez Aitor Elias (13)</td><td>Nejepsa Jaroslav (11)</td></tr>
 <tr><td>Halfar Tomáš (9)</td><td>Baubín Marek (12)</td></tr>
 <tr><td>Bláha Tomáš (10)</td><td>Červený Jan (14)</td></tr>
 <tr><td>Trapp Petr (11)</td><td>Rašek Jan (16)</td></tr>
