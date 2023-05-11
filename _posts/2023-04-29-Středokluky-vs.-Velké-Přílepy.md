@@ -8,7 +8,7 @@ image: assets/images/34.jpg
 
 Dnešní zápas se nám povedl. Skórování bylo s protihráči stále na střídačku, vždy jsme se dorovnávali, ale pak se nám je povedlo předehnat o dva góly. Zápas byl velmi vysilující, jelikož když protihráči dorovnávali, byla zde jistá lehčí nervozita. Nakonec jsme vše zvládli a podařilo se nám zvítězit.
 
-<h3><caption>Skóre zápasu: 3:5</caption></h3>
+## Skóre zápasu: 3:5
 
 Při tomto zápasu skóroval dvakrát Jakub Juklíček, kdy odstartoval zápas ve 14. minutě a poté z pokutového kopu při 37. minutě. Těsně před ukončením první půle se povedlo dát gól Petrovi Palinčákovi ve 42. minutě. Následně při rozehrání druhé půle skóroval Petr Bláha v 64. minutě a celý zápas byl pak završen krásným gólem od Karla Raděje v 90. minutě.
 
