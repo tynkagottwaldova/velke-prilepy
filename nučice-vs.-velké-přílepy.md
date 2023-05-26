@@ -1,0 +1,30 @@
+---
+layout: post
+title: SK Nučice vs. TJ Sokol Velké Přílepy
+author: Týna
+categories: [ football, Velké Přílepy ]
+image: assets/images/37.jpg
+---
+
+Krásný zápas. který se nám podařilo odehrát po náročném týdnu. Nučice nebyli lehký soupeři, ale i přesto jsme je odkázali porazit s čistým kontem. 
+
+## Skóre zápasu: 4:0
+
+První gól v tomto zápase dal Mathew Aaron v 21. minutě. Po nějaké době dal další gól Peter Palinčák ve 40. minutě a chvilku po něm skóroval Petr Trapp ve 44. minutě. Po rozehrátí 2. poloviny zápasu opěto skŕoval Petr Trapp v 55. minutě.
+
+<h3><caption>Sestavy</caption></h3>
+<table border="2" cellpadding="5" cellspacing="4">
+<tr><th>TJ Sokol Velké Přílepy</th><th>SK Nučice</th></tr>
+<tr><td>Carvan Matěj (23)</td><td>Kopřiva Ondřej (13)</td></tr>
+<tr><td>Doubek Roman (3)</td><td>Sztecik Volodimir (3)</td></tr>
+<tr><td>Štengl Štěpán (16)</td><td>Kratochvíl Miroslav (10)</td></tr>
+<tr><td>Palinčák Peter (27)</td><td>Fait Jiří (5)</td></tr>
+<tr><td>Zrůbecký Pavel (20)</td><td>Mužík Zdeněk (9)</td></tr>
+<tr><td>Kyprý Luděk (11)</td><td>Vasič Siniša (17)</td></tr>
+<tr><td>Juklíček Jakub (7)</td><td>	Čihák Petr (22)</td></tr>
+<tr><td>Mathew Aaron (30)</td><td>Samko Martin (6)</td></tr>
+<tr><td>Trap Petr (14)</td><td>Gevorkjan Chačik (16)</td></tr>
+<tr><td>Bláha Tomáš (25)</td><td>Houba Štěpán (4)</td></tr>
+<tr><td>Halfar Tomáš (18)</td><td>Bartůněk Jan (23)</td></tr>
+</table>
+<br>
