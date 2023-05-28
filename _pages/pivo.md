@@ -6,7 +6,7 @@ comments: false
 ---
 
 Při první nebo druhé návštěvě zápasu obdržíte návštěvní kartičku na 6 utkání. Podmínku je získat alespoň 5 razítek, abyste dostali pivo ZDARMA.
-Razítko dostanete po prokázání slevového kódu u výdejního okénka: <u>lákavá svačinka</u>.
+Razítko dostanete po prokázání slevového kódu u výdejního okénka: <u>hurá, fotbal volá</u>.
 
 ![návštěvní kartička]({{ site.baseurl }}/assets/images/kartička.png)
 
